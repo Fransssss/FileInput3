@@ -1,5 +1,6 @@
 // Author: Fransiskus Agapa
 // 8/14/22
+// Have fun!
 
 #include <iostream>
 #include "string"
